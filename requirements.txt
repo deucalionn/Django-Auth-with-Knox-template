@@ -1,0 +1,6 @@
+django
+pytest             
+pytest-django       
+python-dotenv
+django-rest-knox
+djangorestframework
